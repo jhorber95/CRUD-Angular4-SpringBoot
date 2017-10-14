@@ -1,0 +1,49 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+angular4-client/dist
+angular4-client/tmp
+angular4-client/out-tsc
+
+# dependencies
+angular4-client/node_modules
+
+# IDEs and editors
+angular4-client/.idea
+angular4-client/.project
+angular4-client/.classpath
+angular4-client/.c9/
+angular4-client/*.launch
+angular4-client/.settings/
+angular4-client/*.sublime-workspace
+
+# IDE - VSCode
+angular4-client/.vscode/*
+angular4-client/!.vscode/settings.json
+angular4-client/!.vscode/tasks.json
+angular4-client/!.vscode/launch.json
+angular4-client/!.vscode/extensions.json
+
+# misc
+angular4-client/.sass-cache
+angular4-client/connect.lock
+angular4-client/coverage
+angular4-client/libpeerconnection.log
+angular4-client/npm-debug.log
+angular4-client/testem.log
+angular4-client/typings
+
+# e2e
+angular4-client/e2e/*.js
+angular4-client/e2e/*.map
+
+# System Files
+angular4-client/.DS_Store
+angular4-client/Thumbs.db
+
+angular4-client/.settings
+
+Spring/.settings
+Spring/target
+
+Spring/.settings/
